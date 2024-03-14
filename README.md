@@ -1,4 +1,5 @@
 - Hi, I'm @filipe-dcruz
+- I'm interested in Plasma Physics, Astophysics, Inertial Confinement Fusion, and Computational Physics. 
 - [Google Scholar](https://scholar.google.com/citations?user=_T323nYAAAAJ&hl=en)
 
 <!--
