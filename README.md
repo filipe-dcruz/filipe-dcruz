@@ -1,4 +1,5 @@
-### Hi there 👋
+- Hi, I'm @filipe-dcruz
+- [Google Scholar]([https://www.google.com](https://scholar.google.com/citations?user=_T323nYAAAAJ&hl=en))
 
 <!--
 **filipe-dcruz/filipe-dcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
