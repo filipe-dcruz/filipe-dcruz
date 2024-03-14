@@ -5,7 +5,7 @@
 Research papers:
 - [Laser-driven, ion-scale magnetospheres in laboratory plasmas. I. Experimental platform and first results](https://pubs.aip.org/aip/pop/article/29/4/042901/2843571)
 - [Laser-driven, ion-scale magnetospheres in laboratory plasmas. II. Particle-in-cell simulations](https://pubs.aip.org/aip/pop/article/29/3/032902/2847973/Laser-driven-ion-scale-magnetospheres-in)
-- [Strong collisionless coupling between an unmagnetized driver plasma and a magnetized background plasma](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_T323nYAAAAJ&citation_for_view=_T323nYAAAAJ:2osOgNQ5qMEC)
+- [Strong collisionless coupling between an unmagnetized driver plasma and a magnetized background plasma]([https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_T323nYAAAAJ&citation_for_view=_T323nYAAAAJ:2osOgNQ5qMEC](https://pubs.aip.org/aip/pop/article/30/5/052901/2887662))
 
 <!--
 **filipe-dcruz/filipe-dcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
